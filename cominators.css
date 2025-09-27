@@ -1,0 +1,11 @@
+.container{
+    width: 200px;
+    height: 475px;
+    /* border: 2px solid black; */
+    display: inline-block;
+    margin: 5px;
+    vertical-align: top;
+}
+.container > img{
+    width: 100%;
+}
